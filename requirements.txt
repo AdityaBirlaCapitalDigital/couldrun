@@ -1,8 +1,1 @@
-Flask==3.0.3
-psycopg2-binary
-gunicorn==23.0.0
-Werkzeug==3.0.3
-cloud-sql-python-connector
-pg8000
-
 
